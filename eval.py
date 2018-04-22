@@ -1,0 +1,2 @@
+from test_GRU import main_for_evaluation
+main_for_evaluation()
